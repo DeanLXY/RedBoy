@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help_center.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\layout\\activity_help_center.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regist.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\layout\\activity_regist.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_more.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_accountcenter.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\layout\\activity_accountcenter.xml"
+    }
+]

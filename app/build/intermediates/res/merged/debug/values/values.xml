@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_corners">#19000000</color>
+    <color name="bg_title">#ff0000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_height">48dp</dimen>
+    <dimen name="title_textsize">20dp</dimen>
+    <string name="about_us">关于</string>
+    <string name="account">帐号</string>
+    <string name="account_center">账户中心</string>
+    <string name="action_settings">Settings</string>
+    <string name="address_manager">地址管理</string>
+    <string name="app_name">RedBoy</string>
+    <string name="faverite">收藏夹</string>
+    <string name="feed_center">用户反馈</string>
+    <string name="forgot_password">忘记密码?</string>
+    <string name="gift_card">优惠券/礼品卡</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="helpe_center">帮助中心</string>
+    <string name="login">登录</string>
+    <string name="mine_orders">我的订单(0)</string>
+    <string name="more">更多</string>
+    <string name="password">密码</string>
+    <string name="regist">注册</string>
+    <string name="scan_record">浏览记录</string>
+    <string name="tab_menu_brand">品牌</string>
+    <string name="tab_menu_home">主页</string>
+    <string name="tab_menu_more">更多</string>
+    <string name="tab_menu_search">搜索</string>
+    <string name="tab_menu_shopping">购物车</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="@android:windowAnimationStyle">@style/activty_fade_in_fade_out</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="activty_fade_in_fade_out">
+        <item name="@android:activityOpenEnterAnimation">@anim/push_left_in</item>
+        <item name="@android:activityOpenExitAnimation">@anim/push_left_out</item>
+        <item name="@android:activityCloseEnterAnimation">@anim/push_right_in</item>
+        <item name="@android:activityCloseExitAnimation">@anim/push_right_out</item>
+    </style>
+    <style name="tab_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:textSize">13dp</item>
+        <item name="android:background">@drawable/tab_menu_bg_selector</item>
+        <item name="android:drawablePadding">-13dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/tab_titlecolor_selector</item>
+    </style>
+</resources>

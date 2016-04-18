@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_long_selected.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\button_long_selected.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_brand_selected.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\bar_brand_selected.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_bg.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\bar_bg.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_home_selected.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\bar_home_selected.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_home_normal.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\bar_home_normal.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\changing_back_normal.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\changing_back_normal.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_right.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_brand_normal.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\bar_brand_normal.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_search_selected.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\bar_search_selected.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_button_selected.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\head_button_selected.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_more_selected.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\bar_more_selected.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_long_normal.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\button_long_normal.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_shopping_selected.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\bar_shopping_selected.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_button_normal.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\head_button_normal.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_bg.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\head_bg.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\changing_back_selected.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\changing_back_selected.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\open.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_more_normal.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\bar_more_normal.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_search_normal.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\bar_search_normal.png"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_shopping_normal.png",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable-hdpi\\bar_shopping_normal.png"
+    }
+]

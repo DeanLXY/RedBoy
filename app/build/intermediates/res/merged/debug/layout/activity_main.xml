@@ -1,0 +1,65 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <FrameLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+        </FrameLayout>
+    </LinearLayout>
+
+    <RadioGroup
+        android:id="@+id/rg_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@drawable/bar_bg"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rb_menu_home"
+            style="@style/tab_style"
+            android:layout_height="match_parent"
+            android:drawableTop="@drawable/tab_menu_home_selector"
+            android:text="@string/tab_menu_home" />
+
+        <RadioButton
+            android:id="@+id/rb_menu_search"
+            style="@style/tab_style"
+            android:layout_height="match_parent"
+            android:drawableTop="@drawable/tab_menu_search_selector"
+            android:text="@string/tab_menu_search" />
+
+        <RadioButton
+            android:id="@+id/rb_menu_brand"
+            style="@style/tab_style"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/tab_menu_brand_selector"
+            android:text="@string/tab_menu_brand" />
+
+        <RadioButton
+            android:id="@+id/rb_menu_shopping"
+            style="@style/tab_style"
+            android:layout_height="match_parent"
+            android:drawableTop="@drawable/tab_menu_shopping_selector"
+            android:text="@string/tab_menu_shopping" />
+
+        <RadioButton
+            android:id="@+id/rb_menu_more"
+            style="@style/tab_style"
+            android:layout_height="match_parent"
+            android:drawableTop="@drawable/tab_menu_more_selector"
+            android:text="@string/tab_menu_more" />
+    </RadioGroup>
+
+</FrameLayout>

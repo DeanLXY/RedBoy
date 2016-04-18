@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_shape_corners.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable\\bg_shape_corners.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_menu_search_selector.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable\\tab_menu_search_selector.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_menu_bg_selector.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable\\tab_menu_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_btn.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable\\bg_title_btn.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_menu_more_selector.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable\\tab_menu_more_selector.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_shape_et.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable\\bg_shape_et.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_menu_shopping_selector.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable\\tab_menu_shopping_selector.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_menu_brand_selector.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable\\tab_menu_brand_selector.xml"
+    },
+    {
+        "merged": "D:\\Coder\\RedBoy2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_menu_home_selector.xml",
+        "source": "D:\\Coder\\RedBoy2\\app\\src\\main\\res\\drawable\\tab_menu_home_selector.xml"
+    }
+]
